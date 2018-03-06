@@ -1,0 +1,10 @@
+.loader {
+  position: fixed;
+  z-index: 10000;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  background: white url(/img/loader.svg) no-repeat center / 100px;
+}
